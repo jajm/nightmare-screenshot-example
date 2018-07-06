@@ -1,0 +1,17 @@
+{
+  "name": "nightmare-screenshot-example",
+  "version": "0.1.0",
+  "description": "Example of taking a screenshot with NightmareJS",
+  "main": "index.js",
+  "dependencies": {
+    "nightmare": "^3.0.1",
+    "vo": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
